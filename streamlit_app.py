@@ -1,2 +1,7 @@
 import streamlit
-streamlit.title("My parents new healthy diner");
+
+streamlit.title("My Parents New Healthy Diner");
+streamlit.header("Breakfast Menu");
+stremlit.text("Omega 3 and Blueberry oatmeal");
+stremlit.text("Kale, Spinach and Rocket Smoothie");
+stremlit.text("Hard-Boiled Free Range Egg");
